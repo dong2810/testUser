@@ -116,6 +116,14 @@
                             </a>
                         </li>
                         <li class="nav-item">
+                            <a href="/staff" class="nav-link">
+                                <i class="nav-icon fas fa-chart-pie"></i>
+                                <p>
+                                    staff
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a href="/logout" class="nav-link">
                                 <i class="nav-icon fas fa-th"></i>
                                 <p>
